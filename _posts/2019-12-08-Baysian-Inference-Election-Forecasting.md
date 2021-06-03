@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Baysian Inference Election Forecasting"
-categories: stats
+categories: information
 ---
 
 Election forecasting caught my attention during the 2012 election cycle while I was a mathematics undergraduate student at The University of Texas at Austin. My statistics professor brought Nate Silver’s blog, FiveThirtyEight, into the classroom, and I have followed the blog ever since. I had not thought of trying to create my own model until learning about Bayesian Inference this semester in Dr. White’s Advanced Probability and Statistics class. While we only briefly touched on the subject, Dr. White brought up the example of Silver’s model, and gave an overview of how the model used Bayesian methods to forecast the probability of a given candidate’s victory. At the same time as Bayesian Inference was being introduced by Dr. White, we began discussing the modeling project in Math Modeling.
