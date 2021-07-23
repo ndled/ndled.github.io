@@ -1,4 +1,8 @@
-# Reconstructing Data
+---
+layout: post
+title:  "Reconstructing Data"
+categories: stats
+---
 
 *Low rank approximation singular value decomposition for image compression*
 
