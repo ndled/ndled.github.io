@@ -4,4 +4,4 @@ title: ramblings
 permalink: /write/
 ---
 
-This has a bunch of education stuff I don't work on any more as well as any other projects I've written about.
+This is mostly ramblings on projects I have worked on in rmd or jupyter notebook with some homework assignments I found interesting and some older education related posts from early on in my career.
