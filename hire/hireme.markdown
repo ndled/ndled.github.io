@@ -6,7 +6,7 @@ permalink: /hire/
 
 Here is my [resume](noah-ledbetter-resume.pdf)
 
-I also have a [linkedin](https://www.linkedin.com/in/noah-ledbetter-b46ab5123/)
+I also have a [linkedin](https://www.linkedin.com/in/noahledbetter/)
 
 
 **Checkout my work**
