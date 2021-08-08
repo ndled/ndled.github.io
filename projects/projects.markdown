@@ -8,7 +8,7 @@ Much of my work is on GitHub as [ndled](https://github.com/ndled)
 
 **Featured**
 
-[Computer Vision Applied to "Sports"](/stats/2021/08/06/CV-OWL)
+[Computer Vision Applied to "Sports"](https://github.com/ndled/OWLgameplay/blob/main/naive%20cnn.ipynb)
 
 [Bayesian Election Modeling](/hire/bi.html)
 
