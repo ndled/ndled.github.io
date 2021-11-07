@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| ![alt text](me.jpg) | I'm Noah and I'm looking for a job. I like math generally, statistics specifically, data, and education.
+| ![alt text](me.jpg) | I'm Noah and I work at [Alegion](https://www.alegion.com/) doing lots of different stuff. I like math generally, statistics specifically, data, and education.
 
 
-After working with high schoolers and their educators, I excel at building long-term trust on diverse teams in project-based settings. I’m looking for a place that fosters growth and where I can learn and apply new statistical skills in industry.
+I am pretty fresh into a career switch away from education over into a more data focused path. I mostly write about how weird that is... Other times I write about what I'm reading or what's a cool thing I just learned.
