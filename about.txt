@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Titillium Web
+- Font Author: Copyright (c) 2009-2011 by Accademia di Belle Arti di Urbino and students of MA course of Visual design. Some rights reserved.
+- Font Source: http://fonts.gstatic.com/s/titilliumweb/v14/NaPecZTIAOhVxoMyOr9n_E7fRMTsDIRSfr0.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
