@@ -21,7 +21,7 @@
 title: Noah Ledbetter
 email: noah@ndled.us
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website dedicated to bad ramblings, cool datasets, and bad predictions.
+  Personal website dedicated to bad ramblings, cool datasets, and weird projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ndled.us" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ndled
