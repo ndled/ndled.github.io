@@ -16,13 +16,9 @@ Much of my work is on GitHub as [ndled](https://github.com/ndled)
 
 ---
 
----
-
 [Bayesian Election Modeling](/hire/bi.html)
 
 ![state](/images/state.png)
-
----
 
 ---
 
