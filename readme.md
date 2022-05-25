@@ -1,4 +1,4 @@
-GitHub Pages site hosted at (ndled.us)[here]
+GitHub Pages site hosted at [here](ndled.us)
 Building locally
 Adapted from the GitHub documentation: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
 
