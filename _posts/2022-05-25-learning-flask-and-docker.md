@@ -4,12 +4,12 @@ title:  "Learning Flask and Docker for inspire.ndled.us"
 categories: python
 ---
 
-You can find the current iteration of the app at (inspire.ndled.us)[inspire.ndled.us] and code (https://github.com/ndled/youtube_screen_grab/)[here]
+You can find the current iteration of the app at [inspire.ndled.us](https://inspire.ndled.us) and code [here](https://github.com/ndled/youtube_screen_grab/)
 
 
 Three months ago my fiancee expressed an interest in learning some practical scripting in python. I had her brainstorm ideas for something simple she’d like to accomplish and she came up with the inspiration for this project. I will note that while yes, I did technically steal this idea from her, she had already stopped working on it and I thought it was cool so…
 
-Her idea was simple - She loves animal crossing, and puts on island tour videos like (https://www.youtube.com/watch?v=1HPlHuz3k2I)[this one] while she putts around the house. She constantly gets design ideas from these videos and thought it would be cool to create a script that would grab a random image from the video so she could use it for inspiration.
+Her idea was simple - She loves animal crossing, and puts on island tour videos like [this one](https://www.youtube.com/watch?v=1HPlHuz3k2I) while she putts around the house. She constantly gets design ideas from these videos and thought it would be cool to create a script that would grab a random image from the video so she could use it for inspiration.
 
 While she did learn some scripting, she only got as far as downloading youtube videos with a script before going off on a tangent to extract audio only from her music playlists. Lame. I thought it was a great idea so I kept with it!
 
@@ -139,9 +139,9 @@ And it’s up and running! This was a really neat process that walked me through
 
 This work would not be possible without the following blog posts and tutorials:
 
-(https://flask.palletsprojects.com/en/2.1.x/)[Official Flask Tutorial]
-(https://testdriven.io/courses/flask-celery/docker/)[Dockerizing Celery and Flask]
-(https://learndocker.online/courses/fundamentals/)[Best Docker Tutorial I’ve found]
+[Official Flask Tutorial](https://flask.palletsprojects.com/en/2.1.x/)
+[Dockerizing Celery and Flask](https://testdriven.io/courses/flask-celery/docker/)
+[Best Docker Tutorial I’ve found](https://learndocker.online/courses/fundamentals/)
 
 Until next time,
 
