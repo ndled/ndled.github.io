@@ -10,10 +10,9 @@ Much of my work is on GitHub as [ndled](https://github.com/ndled)
 
 ---
 
-[inspire.ndled.us](https://www.ndled.us/python/2022/05/25/learning-flask-and-docker.html)
+[inspire.ndled.us](/python/2022/05/25/learning-flask-and-docker.html)
 
-<iframe width="560" height="316" src="https://inspire.ndled.us/juuRggozbVA" title="Inspire" frameborder="0"></iframe>
-
+![inspire](https://inspire.ndled.us/static/temp/juuRggozbVA/Relaxing%20&%20Aesthetic%20Meadowcore%20Island%20Tour%20_%20Animal%20Crossing%20New%20Horizons-juuRggozbVA.mp401373.jpg)
 ---
 
 [Computer Vision Applied to "Sports"](https://github.com/ndled/OWLgameplay)
