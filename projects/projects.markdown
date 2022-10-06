@@ -10,6 +10,12 @@ Much of my work is on GitHub as [ndled](https://github.com/ndled)
 
 ---
 
+[inspire.ndled.us](https://www.ndled.us/python/2022/05/25/learning-flask-and-docker.html)
+
+<iframe width="560" height="316" src="https://inspire.ndled.us/juuRggozbVA" title="Inspire" frameborder="0"></iframe>
+
+---
+
 [Computer Vision Applied to "Sports"](https://github.com/ndled/OWLgameplay)
 
 <iframe width="560" height="316" src="https://www.youtube.com/embed/UnPRh_-Itmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
