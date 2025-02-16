@@ -102,15 +102,15 @@ jobs:
 
 Automating CI/CD in a locked-down legacy environment wasn’t easy, but here is what I learned:
 
-## 1. Don’t Wait for IT Approval If You Don’t Have To.
+### 1. Don’t Wait for IT Approval If You Don’t Have To.
 
 * Self-hosted GitHub runners let me bypass bureaucracy.
 
-## 2. Start Small and Iterate.
+### 2. Start Small and Iterate.
 
 * Airflow was bad, but it got me to the next step.
 
-## 3. Self-Hosted Runners Are a Great Workaround for Restricted Environments.
+### 3. Self-Hosted Runners Are a Great Workaround for Restricted Environments.
 
 * They let me automate deployments without opening firewall rules.
 
