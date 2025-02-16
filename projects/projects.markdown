@@ -12,8 +12,6 @@ Much of my work is on GitHub as [ndled](https://github.com/ndled)
 
 [inspire.ndled.us](/python/2022/05/25/learning-flask-and-docker.html)
 
-<iframe width="560" height="600" src="https://inspire.ndled.us/juuRggozbVA" title="Inspire" frameborder="0"></iframe>
-
 ---
 
 [Computer Vision Applied to "Sports"](https://github.com/ndled/OWLgameplay)

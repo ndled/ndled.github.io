@@ -4,7 +4,7 @@ title:  "Learning Flask and Docker for inspire.ndled.us"
 categories: python
 ---
 
-You can find the current iteration of the app at [inspire.ndled.us](https://inspire.ndled.us) and code [here](https://github.com/ndled/youtube_screen_grab/)
+You can find the code [here](https://github.com/ndled/youtube_screen_grab/). The webapp has been decommissioned
 
 
 Three months ago my fiancee expressed an interest in learning some practical scripting in python. I had her brainstorm ideas for something simple she’d like to accomplish and she came up with the inspiration for this project. I will note that while yes, I did technically steal this idea from her, she had already stopped working on it and I thought it was cool so…
