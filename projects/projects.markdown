@@ -20,13 +20,13 @@ Much of my work is on GitHub as [ndled](https://github.com/ndled)
 
 ---
 
-[Bayesian Election Modeling](/hire/bi.html)
+[Bayesian Election Modeling](/projects/bi.html)
 
 ![state](/images/state.png)
 
 ---
 
-[Austin Bike Data Exploration](/stats/2021/07/04/Austin-Bikes)
+[Austin Bike Data Exploration](/stats/2021/07/04/Austin-Bikes.html)
 
 ![bike](/images/bike_data.png)
 

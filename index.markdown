@@ -2,9 +2,11 @@
 layout: default
 ---
 
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:1.5rem;margin:1rem 0;">
+  <img src="/me.jpg" alt="Noah Ledbetter" style="width:180px;height:auto;border-radius:8px;flex:0 0 auto;">
+  <p style="flex:1 1 280px;margin:0;">
+    I'm Noah — an ex-teacher turned Data Engineer at <a href="https://www.amd.com/">AMD</a>, where I support business operations. I like math generally, statistics specifically, data, and education.
+  </p>
+</div>
 
-| ![alt text](me.jpg) | I'm Noah and I work at [AMD](https://www.amd.com/) as a Data Engineer supporting business operations. I like math generally, statistics specifically, data, and education.
-
-
-Ex Teacher turned Data Engineer. I mostly write about personal projects, cool things I'm learning, or what I'm currently reading.
-
+I mostly write about personal projects, things I'm learning, or what I'm currently reading.
