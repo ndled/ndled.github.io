@@ -1,0 +1,137 @@
+@page {
+  size: letter;
+  margin: 1in;
+}
+
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  color: #434343;
+  line-height: 1.35;
+  margin: 0;
+}
+
+h1 {
+  font-size: 21pt;
+  font-weight: normal;
+  margin: 0 0 0.15em 0;
+  color: #000;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 13pt;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: #000;
+  margin: 1.6em 0 0.3em 0;
+  border-bottom: 0;
+}
+
+h3 {
+  font-size: 11pt;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: #000;
+  margin: 0.9em 0 0.1em 0;
+  letter-spacing: 0.02em;
+}
+
+h4 {
+  font-size: 10pt;
+  font-weight: normal;
+  color: #b7b7b7;
+  margin: 0 0 0.4em 0;
+  text-transform: uppercase;
+}
+
+p {
+  margin: 0 0 0.5em 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul {
+  margin: 0 0 0.6em 0;
+  padding-left: 1.25em;
+}
+
+li {
+  margin-bottom: 0.15em;
+}
+
+strong {
+  font-weight: 600;
+  color: #000;
+}
+
+p.chips {
+  margin: 0.4em 0 1em 0;
+  line-height: 2;
+}
+
+.chip {
+  background: #cccccc;
+  padding: 0.15em 0.5em;
+  font-size: 10pt;
+  white-space: nowrap;
+}
+
+header.title-block-header {
+  margin-bottom: 0.5em;
+}
+
+header.title-block-header h1.title {
+  margin-bottom: 0.15em;
+}
+
+h1 + p,
+h1 + p + p {
+  color: #999999;
+  margin-bottom: 0.4em;
+}
+
+h2 + p {
+  color: #b7b7b7;
+  margin-top: 0;
+  margin-bottom: 0.4em;
+}
+
+h3 + p {
+  color: #b7b7b7;
+  margin-top: 0;
+  margin-bottom: 0.4em;
+}
+
+span.company {
+  color: #b7b7b7;
+}
+
+a[href*="github.com"],
+a[href*="linkedin.com"] {
+  color: inherit;
+}
+
+.pagebreak {
+  break-before: page;
+  page-break-before: always;
+}
+
+h1, h2, h3 {
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+p, ul, li {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.chips {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
