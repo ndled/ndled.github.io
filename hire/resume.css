@@ -89,7 +89,12 @@ header.title-block-header h1.title {
   margin-bottom: 0.15em;
 }
 
-h1 + p,
+h1 + p {
+  color: #999999;
+  margin-bottom: 0.4em;
+  font-size: 9pt;
+}
+
 h1 + p + p {
   color: #999999;
   margin-bottom: 0.4em;

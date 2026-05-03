@@ -4,7 +4,7 @@ Austin, Texas | [linkedin.com/in/noahledbetter](https://linkedin.com/in/noahledb
 
 Data Engineer trusted with revenue-critical systems, cloud infrastructure, and AI tooling.
 
-<p class="chips"><span class="chip">Python</span> <span class="chip">SQL</span> <span class="chip">Git</span> <span class="chip">Airflow</span> <span class="chip">Snowflake</span> <span class="chip">Azure</span> <span class="chip">Terraform</span> <span class="chip">Docker</span> <span class="chip">LLMs</span> <span class="chip">RAG</span></p>
+<p class="chips"><span class="chip">Python</span> <span class="chip">SQL</span> <span class="chip">Git</span> <span class="chip">CI/CD</span> <span class="chip">Airflow</span> <span class="chip">dbt</span> <span class="chip">Airbyte</span> <span class="chip">Snowflake</span> <span class="chip">Azure</span> <span class="chip">AWS</span> <span class="chip">Terraform</span> <span class="chip">Docker</span> <span class="chip">LLMs</span> <span class="chip">RAG</span></p>
 
 ## Senior Data Engineer
 Join Parachute | 2025 – Present
@@ -62,6 +62,7 @@ R: ggplot, dplyr, tidyverse · Bayesian Inference
 
 ### Presentations
 
+- "Ask Phill - Demoing an SOP Retrieval Bot and Exploring RAG Use Cases for Snowflake Cortex Search." Internal tech talk, Join Parachute, March 2026.
 - "Mastery of Project Based Learning for Secondary Teachers" — Co-Presenter: Jazmine Castanon. Presented at MPACT, August 2019, Manor, TX.
 - "PBL Failures: When and How to Pull the Plug" — Co-Presenters: Sierra Pedroza, Jasmine Castanon. Presented at the Belton New Tech PBL Symposium, February 2017, Belton, TX.
 - "#teachingsurvivors" — Co-Presenters: Jasmine Castanon, Rikki Foster. Presented at UTeach Alumni Conference, July 2016, Austin, TX.
