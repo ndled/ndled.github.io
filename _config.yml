@@ -23,7 +23,7 @@ email: noah@ndled.us
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website dedicated to bad ramblings, cool datasets, and weird projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ndled.us" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.ndled.us" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ndled
 
 # Build settings
@@ -39,14 +39,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - FAVICON_ATTRIBUTION.txt
+  - README.md
+  - Gemfile
+  - Gemfile.lock
