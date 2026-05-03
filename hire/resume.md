@@ -2,12 +2,22 @@
 
 Austin, Texas | [linkedin.com/in/noahledbetter](https://linkedin.com/in/noahledbetter) | noah@ndled.us | 512-986-0003 | [github.com/ndled](https://github.com/ndled)
 
-Python programmer and ETL specialist that excels at building long term trust on diverse teams. Looking for a place that fosters growth where I can learn and apply technical skills in industry.
+Data Engineer trusted with revenue-critical systems, cloud infrastructure, and AI tooling.
 
-<p class="chips"><span class="chip">Python</span> <span class="chip">R</span> <span class="chip">SQL</span> <span class="chip">Git</span> <span class="chip">Analytics</span> <span class="chip">Data Visualization</span> <span class="chip">Statistical Modeling</span> <span class="chip">Machine Learning</span> <span class="chip">Airflow</span> <span class="chip">Snowflake</span></p>
+<p class="chips"><span class="chip">Python</span> <span class="chip">SQL</span> <span class="chip">Git</span> <span class="chip">CI/CD</span> <span class="chip">Airflow</span> <span class="chip">dbt</span> <span class="chip">Airbyte</span> <span class="chip">Snowflake</span> <span class="chip">Azure</span> <span class="chip">AWS</span> <span class="chip">Terraform</span> <span class="chip">Docker</span> <span class="chip">LLMs</span> <span class="chip">RAG</span></p>
+
+## Senior Data Engineer
+Join Parachute | 2025 – Present
+
+- Own a Python rules engine that translates business rules into shipment eligibility evaluations; the tool gates ~20,000 units per week and is the system of record through which 100% of company revenue is recognized
+- Manage all Azure infrastructure; introduced Terraform-based IaC for all provisioning
+- Lead the company's AI initiative, covering vendor evaluation, internal LLM tooling, and centralized account management across providers
+- Built an SOP bot using RAG that lets line staff query company procedures in natural language
+- Established the team's engineering standards, including a programming style guide, GitHub security and CI policies, and automated testing infrastructure
+- Lead workplace automation across the company, including a chatbot-driven Corrective Action Form workflow that interviews center leadership and produces required documentation
 
 ## Data Engineer
-AMD | 2023 – Present
+AMD | 2023 – 2025
 
 - Created and managed custom pipelines using Python and SQL from various sources to data warehouse in Snowflake, orchestrated with Airflow
 - Built systems to improve overall reliability and code quality of the analytics team by (1) creating the team's first programming style guide, (2) implementing best practices in CI/CD for previously manual processes, and (3) leading the team through its first testing framework
@@ -21,17 +31,6 @@ Alegion | 2021 – 2023
 - Built custom applications in Python for the customer success team to build automation and interact with our API, SQL database, and AWS S3
 - Preprocessed and postprocessed data, worked with both relational and flat data structures including JSON, SQL, CSV, TXT, as well as image and video data
 - Created a triage system for data processing tickets
-- Data analysis and reporting
-
-## Department Head
-Manor New Technology High School | 2016 – 2021
-
-- Managed 5 teachers through observation, feedback, and instructional coaching. Point of contact between the head of school and my department on matters of policy, curriculum, etc.
-- Taught dual-credit Pre-calculus & Advanced Placement Computer Science Principles
-- Independently launched the Advanced Placement Computer Science track at my school and hired an industry professional to teach cyber security
-- Hired 3 assistant principals and 15 math & science teachers at various levels on the hiring committee. Drove revisions to the hiring framework to raise candidate quality
-- Wrote a Chrome widget in JavaScript for my team to automate the manual and time-consuming process of logging parent contacts
-- Developed the campus Advanced Academic program based on the district's general guidelines
 
 ## Education
 
@@ -41,10 +40,10 @@ B.S. in Mathematics — <span class="company">The University of Texas at Austin 
 
 ## Projects & Presentations
 
-### Inspire — Find Your Inspiration
+### Inspire — Find Your Inspiration — 2022
 
 [github.com/ndled/inspire.ndled.us](https://github.com/ndled/inspire.ndled.us)\
-Python: flask, cv2, celery, numpy · Digital Ocean *Cloud*, Docker, Redis
+Python: flask, cv2, celery, numpy · Digital Ocean Cloud, Docker, Redis
 
 ### Computer Vision Applied to "Sports" Casting — 2021
 
@@ -63,6 +62,7 @@ R: ggplot, dplyr, tidyverse · Bayesian Inference
 
 ### Presentations
 
+- "Ask Phill - Demoing an SOP Retrieval Bot and Exploring RAG Use Cases for Snowflake Cortex Search." Internal tech talk, Join Parachute, March 2026.
 - "Mastery of Project Based Learning for Secondary Teachers" — Co-Presenter: Jazmine Castanon. Presented at MPACT, August 2019, Manor, TX.
 - "PBL Failures: When and How to Pull the Plug" — Co-Presenters: Sierra Pedroza, Jasmine Castanon. Presented at the Belton New Tech PBL Symposium, February 2017, Belton, TX.
 - "#teachingsurvivors" — Co-Presenters: Jasmine Castanon, Rikki Foster. Presented at UTeach Alumni Conference, July 2016, Austin, TX.
