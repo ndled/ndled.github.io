@@ -31,6 +31,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Pages shown in the main nav (omit any page that should stay unlinked)
+header_pages:
+  - projects/projects.markdown
+  - hire/hireme.markdown
+  - ramblings.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
