@@ -21,5 +21,5 @@ A running list of what I'm reading. Finished books get a date.
 - *The Phoenix Project*, Gene Kim, Kevin Behr, and George Spafford (August 2026)
   - Terrible book. 8th grade reading level. I got so much out of it. I bought it for two people and got my team to pick it up.
 - *Romance of the Three Kingdoms*, Luo Guanzhong (July 2026)
-- *Silent Spring*, Rachel Carson (May 3, 2026)
+- *Silent Spring*, Rachel Carson (May 2026)
   - Wow, I might be weird about organic food if I grew up with this happening around me. Also, screw worms! Bummer they're held up as the success story when they're currently marching back north since funding got cut.
