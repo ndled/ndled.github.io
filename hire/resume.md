@@ -6,7 +6,7 @@ Data Engineer trusted with revenue-critical systems, cloud infrastructure, and A
 
 <p class="chips"><span class="chip">Python</span> <span class="chip">SQL</span> <span class="chip">Git</span> <span class="chip">CI/CD</span> <span class="chip">Airflow</span> <span class="chip">dbt</span> <span class="chip">Airbyte</span> <span class="chip">Snowflake</span> <span class="chip">Azure</span> <span class="chip">AWS</span> <span class="chip">Terraform</span> <span class="chip">Docker</span> <span class="chip">LLMs</span> <span class="chip">RAG</span></p>
 
-## Senior Data Engineer
+## Staff Data Engineer
 Join Parachute | 2025 – Present
 
 - Own a Python rules engine that translates business rules into shipment eligibility evaluations; the tool gates ~20,000 units per week and is the system of record through which 100% of company revenue is recognized
