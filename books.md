@@ -4,11 +4,12 @@ title: books
 permalink: /books/
 ---
 
-A running list of what I'm reading. Finished books get a date.
+A running list of what I'm reading.
 
 **Currently reading**
 
 - *Jonathan Strange & Mr Norrell*, Susanna Clarke
+- *Designing Data-Intensive Applications*, Martin Kleppmann
 
 **Finished**
 
